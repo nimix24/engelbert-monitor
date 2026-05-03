@@ -1,0 +1,34 @@
+name: Engelbert Monitor Update
+
+on:
+  schedule:
+    - cron: '0 * * * *' # ירוץ בכל שעה עגולה
+  workflow_dispatch: # מאפשר להריץ ידנית לצורך בדיקה
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.9'
+
+      - name: Install dependencies
+        run: pip install requests beautifulsoup4
+
+      - name: Run monitor
+        env:
+          TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: python monitor_tours.py
+
+      - name: Commit and push if text file changed
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add known_tours.txt
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Update known tours" && git push)
