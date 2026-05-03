@@ -2,7 +2,7 @@ name: Engelbert Monitor Update
 
 on:
   schedule:
-    - cron: '*/10 * * * *' # runs every 25 minutes.
+    - cron: '*/20 * * * *' # runs every 20 minutes.
   workflow_dispatch:
 
 jobs:
