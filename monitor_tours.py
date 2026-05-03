@@ -26,7 +26,7 @@ def get_tours_from_site():
 
         return found_tours
     except Exception as e:
-        print(f"שגיאה בסריקת האתר: {e}")
+        print(f"error scanning the site {e}")
         return []
 
 def send_telegram_message(message):
@@ -38,7 +38,7 @@ def send_telegram_message(message):
     payload = {
         "chat_id": chat_id,
         "text": message,
-        "parse_mode": "HTML"  # מאפשר להוסיף הדגשות בטקסט
+        "parse_mode": "HTML"
     }
 
     try:
