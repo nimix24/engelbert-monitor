@@ -2,8 +2,8 @@ name: Engelbert Monitor Update
 
 on:
   schedule:
-    - cron: '0 * * * *' # ירוץ בכל שעה עגולה
-  workflow_dispatch: # מאפשר להריץ ידנית לצורך בדיקה
+    - cron: '*/25 * * * *' # runs every 25 minutes
+  workflow_dispatch:
 
 jobs:
   build:

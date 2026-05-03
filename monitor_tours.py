@@ -16,7 +16,7 @@ def get_tours_from_site():
 
         found_tours = []
         for entry in tour_entries:
-            # אנחנו שולפים את המקום, המיקום והתאריך ומאחדים לטקסט אחד
+
             venue = entry.find(class_="tour-venue").get_text(strip=True)
             location = entry.find(class_="tour-location").get_text(strip=True)
             date = entry.find(class_="tour-date").get_text(strip=True)
