@@ -1,8 +1,3 @@
-June 28, 2026 | Christchurch, NEW ZEALAND | Christchurch Town Hall
-June 30, 2026 | Auckland, NEW ZEALAND | Kiri Te Kanawa Theatre
-July 04, 2026 | Brisbane, AUSTRALIA | QPAC Concert Hall
-July 06, 2026 | Gold Coast, AUSTRALIA | The Star
-July 08, 2026 | Melbourne, AUSTRALIA | Hamer Hall
 July 10, 2026 | Adelaide, AUSTRALIA | Her Majesty's Theatre
 July 12, 2026 | Perth, AUSTRALIA | Riverside Theatre
 July 14, 2026 | Sydney, AUSTRALIA | State Theatre
@@ -22,3 +17,5 @@ October 23, 2026 | Lincoln, CA | The Venue at Thunder Valley Casino Resort
 October 24, 2026 | Temecula, CA | Pechanga Resort Casino
 November 10, 2026 | St. Charles, IL | Arcada Theatre
 November 11, 2026 | Des Plaines, IL | Des Plaines Theatre
+January 25, 2027 | Tel Aviv, ISRAEL | Charles Bronfman Auditorium
+January 26, 2027 | Tel Aviv, ISRAEL | Charles Bronfman Auditorium
