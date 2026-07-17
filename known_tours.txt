@@ -1,6 +1,3 @@
-July 10, 2026 | Adelaide, AUSTRALIA | Her Majesty's Theatre
-July 12, 2026 | Perth, AUSTRALIA | Riverside Theatre
-July 14, 2026 | Sydney, AUSTRALIA | State Theatre
 August 15, 2026 | Westhofen, GERMANY | Gut Leben am Morstein
 August 22, 2026 | Bremen, GERMANY | Seebühne Bremen
 September 23, 2026 | Taipei, TAIWAN | Taipei International Convention Center
@@ -10,7 +7,9 @@ October 02, 2026 | Las Vegas, NV | Westgate Las Vegas Casino & Resort
 October 03, 2026 | Las Vegas, NV | Westgate Las Vegas Casino & Resort
 October 06, 2026 | Toronto, CANADA | Massey Hall
 October 08, 2026 | Montreal, CANADA | Théâtre Maisonneuve, Place des Arts
+October 09, 2026 | Montreal, CANADA | Théâtre Maisonneuve, Place des Arts
 October 11, 2026 | Quebec, CANADA | Théâtre Capitole
+October 12, 2026 | Quebec, CANADA | Theatre Capitole
 October 14, 2026 | Gatineau, CANADA | Théâtre du Casino du Lac-Leamy
 October 21, 2026 | San Jose, CA | California Theatre
 October 23, 2026 | Lincoln, CA | The Venue at Thunder Valley Casino Resort
