@@ -1,9 +1,3 @@
-September 23, 2026 | Taipei, TAIWAN | Taipei International Convention Center
-September 25, 2026 | Quezon City, Manila, PHILIPPINES | New Frontier Theater
-September 27, 2026 | SINGAPORE | Esplanade Concert Hall
-October 02, 2026 | Las Vegas, NV | Westgate Las Vegas Casino & Resort
-October 03, 2026 | Las Vegas, NV | Westgate Las Vegas Casino & Resort
-October 06, 2026 | Toronto, CANADA | Massey Hall
 October 08, 2026 | Montreal, CANADA | Théâtre Maisonneuve, Place des Arts
 October 09, 2026 | Montreal, CANADA | Théâtre Maisonneuve, Place des Arts
 October 11, 2026 | Quebec, CANADA | Théâtre Capitole
@@ -18,6 +12,7 @@ November 13, 2026 | Battle Creek, MI | FireKeepers Casino Hotel-Event Center
 December 03, 2026 | Morristown, NJ | Mayo Performing Arts Center
 December 05, 2026 | Westbury, NY | Westbury Music Fair
 December 06, 2026 | Medford, MA | Chevalier Theatre
+December 12, 2026 | Rancho Mirage, CA | Agua Caliente Casino
 January 25, 2027 | Tel Aviv, ISRAEL | Charles Bronfman Auditorium
 January 26, 2027 | Tel Aviv, ISRAEL | Charles Bronfman Auditorium
 April 17, 2027 | Las Vegas, NV | Westgate Las Vegas Casino & Resort
