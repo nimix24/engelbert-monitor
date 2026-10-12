@@ -1,6 +1,3 @@
-October 08, 2026 | Montreal, CANADA | Théâtre Maisonneuve, Place des Arts
-October 09, 2026 | Montreal, CANADA | Théâtre Maisonneuve, Place des Arts
-October 11, 2026 | Quebec, CANADA | Théâtre Capitole
 October 12, 2026 | Quebec, CANADA | Theatre Capitole
 October 14, 2026 | Gatineau, CANADA | Théâtre du Casino du Lac-Leamy
 October 21, 2026 | San Jose, CA | California Theatre
@@ -15,5 +12,6 @@ December 06, 2026 | Medford, MA | Chevalier Theatre
 December 12, 2026 | Rancho Mirage, CA | Agua Caliente Casino
 January 25, 2027 | Tel Aviv, ISRAEL | Charles Bronfman Auditorium
 January 26, 2027 | Tel Aviv, ISRAEL | Charles Bronfman Auditorium
+January 28, 2027 | Limassol, CYPRUS | MONTE CAPUTO ΛΕΜΕΣΟΣ
 April 17, 2027 | Las Vegas, NV | Westgate Las Vegas Casino & Resort
 October 30, 2027 | Las Vegas, NV | Westgate Las Vegas Casino & Resort
